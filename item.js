@@ -6,7 +6,7 @@ const ItemSchema = new Schema(
         name: { type: String },
         description: { type: String },
         image: { type: String },
-        price : { type: String },
+        price: { type: String },
         stockLimit: { type: Number },
         reference: { type: String },
         category: { type: String },
